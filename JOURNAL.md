@@ -19,6 +19,8 @@ Now comes the routing.... aaaaa
 
 I attributed all of the footprints to the symbols after some research and converted my board to a pcb!
 I spent a good hour trying to debugging why i couldn't see the GND net when trying to make a plane (even cyao told me it was over :sob:) but i finally found it was because of another net connected to the GND that renamed it!
-I also changed the symbol from the easyeda one to the official one for more legibility + added headers to expose the gpios!
+I also changed the symbol from the easyeda one to the official one for more legibility + added headers to expose the gpios! \
+
+<img width="600" height="1156" alt="Screenshot 2025-08-02 at 14 26 27" src="https://github.com/user-attachments/assets/ebbe954e-467f-4b85-86c6-160d2438b5c9" />
 
 **Total time spent: 3h**
