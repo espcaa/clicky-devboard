@@ -14,3 +14,11 @@ Now comes the routing.... aaaaa
 
 
 **Total time spent: 2h30**
+
+# August 2nd, 2025 (Part II)
+
+I attributed all of the footprints to the symbols after some research and converted my board to a pcb!
+I spent a good hour trying to debugging why i couldn't see the GND net when trying to make a plane (even cyao told me it was over :sob:) but i finally found it was because of another net connected to the GND that renamed it!
+I also changed the symbol from the easyeda one to the official one for more legibility + added headers to expose the gpios!
+
+**Total time spent: 3h**
