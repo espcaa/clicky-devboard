@@ -3750,6 +3750,18 @@
 		(uuid "3cd7b900-1d99-45a0-87fe-9909e7c6e4ce")
 	)
 	(junction
+		(at 270.51 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3cff4a24-9997-4da2-914b-42bf1540b795")
+	)
+	(junction
+		(at 270.51 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e4434ad-c9f9-4ff8-83cf-5f54e6b55f46")
+	)
+	(junction
 		(at 167.64 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3778,6 +3790,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4a13d541-d129-4823-8299-b9df8b75d23d")
+	)
+	(junction
+		(at 270.51 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50913d84-2d74-4518-9296-75e975dc7ddd")
 	)
 	(junction
 		(at 49.53 157.48)
@@ -3846,6 +3864,12 @@
 		(uuid "744c1d40-db7b-4eb2-9c8a-0ce7cd7dcd2f")
 	)
 	(junction
+		(at 270.51 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "799979cd-762a-44b3-a832-6c59605461be")
+	)
+	(junction
 		(at 205.74 -25.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3862,6 +3886,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7b105051-a40b-4947-a9c3-983155d0f21e")
+	)
+	(junction
+		(at 270.51 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80e31172-191c-4757-b852-691e0a901405")
 	)
 	(junction
 		(at 342.9 -27.94)
@@ -3916,6 +3946,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b02536b8-ca5b-42a2-9b4b-e4ff8df382fa")
+	)
+	(junction
+		(at 270.51 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2e4cdc8-e5f9-4cdc-ac6b-24afb687294f")
 	)
 	(junction
 		(at 205.74 -44.45)
@@ -4503,7 +4539,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 50.8) (xy 294.64 50.8)
+			(xy 269.24 50.8) (xy 270.51 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4573,7 +4609,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 68.58) (xy 294.64 68.58)
+			(xy 269.24 68.58) (xy 270.51 68.58)
 		)
 		(stroke
 			(width 0)
@@ -4623,6 +4659,16 @@
 	)
 	(wire
 		(pts
+			(xy 270.51 66.04) (xy 294.64 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57b60db1-a1f7-4521-93e1-3bd95bb8f2b6")
+	)
+	(wire
+		(pts
 			(xy 142.24 50.8) (xy 142.24 55.88)
 		)
 		(stroke
@@ -4660,6 +4706,26 @@
 			(type default)
 		)
 		(uuid "5c3c0f15-3634-4337-bb29-173300d9d5d4")
+	)
+	(wire
+		(pts
+			(xy 270.51 50.8) (xy 294.64 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e342890-89f9-4f38-9903-4c3e9c7b7b3f")
+	)
+	(wire
+		(pts
+			(xy 270.51 63.5) (xy 294.64 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e8dfe07-d585-4594-b382-ef57e282b58f")
 	)
 	(wire
 		(pts
@@ -4793,7 +4859,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 66.04) (xy 294.64 66.04)
+			(xy 269.24 66.04) (xy 270.51 66.04)
 		)
 		(stroke
 			(width 0)
@@ -5383,7 +5449,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 71.12) (xy 294.64 71.12)
+			(xy 269.24 71.12) (xy 270.51 71.12)
 		)
 		(stroke
 			(width 0)
@@ -5463,7 +5529,17 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 63.5) (xy 294.64 63.5)
+			(xy 270.51 71.12) (xy 294.64 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "beff7fc7-cdd2-4b37-9102-e23b9ef4e684")
+	)
+	(wire
+		(pts
+			(xy 269.24 63.5) (xy 270.51 63.5)
 		)
 		(stroke
 			(width 0)
@@ -5593,6 +5669,16 @@
 	)
 	(wire
 		(pts
+			(xy 270.51 68.58) (xy 294.64 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3911b28-8d9f-4996-bd54-1230c6546e97")
+	)
+	(wire
+		(pts
 			(xy 297.18 -27.94) (xy 308.61 -27.94)
 		)
 		(stroke
@@ -5643,7 +5729,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 53.34) (xy 294.64 53.34)
+			(xy 269.24 53.34) (xy 270.51 53.34)
 		)
 		(stroke
 			(width 0)
@@ -6000,6 +6086,16 @@
 			(type default)
 		)
 		(uuid "fcb909ae-d66d-458c-9dc4-231adc29ecc5")
+	)
+	(wire
+		(pts
+			(xy 270.51 53.34) (xy 294.64 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd100435-ee0a-4b17-b1b9-41b824dbf693")
 	)
 	(wire
 		(pts
@@ -10113,15 +10209,15 @@
 	(symbol
 		(lib_id "RPI:RP2350A-QFN60")
 		(at 238.76 78.74 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b5de6416-9073-4abb-ba74-3caea9074645")
 		(property "Reference" "U6"
-			(at 240.9033 133.35 0)
+			(at 236.6167 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10130,7 +10226,7 @@
 			)
 		)
 		(property "Value" "RP2350A-QFN60"
-			(at 240.9033 135.89 0)
+			(at 236.6167 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10139,7 +10235,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm"
-			(at 227.33 60.96 0)
+			(at 250.19 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10148,7 +10244,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 227.33 60.96 0)
+			(at 250.19 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10157,7 +10253,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 232.41 64.77 0)
+			(at 245.11 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -26,4 +26,12 @@ I also changed the symbol from the easyeda one to the official one for more legi
 
 <img width="600" height="1156" alt="Screenshot 2025-08-02 at 14 26 27" src="https://github.com/user-attachments/assets/ebbe954e-467f-4b85-86c6-160d2438b5c9" />
 
-**Total time spent: 3h**
+**Time spent: 3h, Total time spent: 5h30**
+
+# August 2nd, 2025 (Part III) & August 3rd, 2025
+
+I grinded with tongyu and kailing on my board during the night and after a lot, a lot and a lot of errors, crashouts i managed to fully route my board!
+It looks very cool and comes at under 100$/5 units!!!
+I learned so much about kicad, and that's very cool!
+
+**Time spent: 9h, Total time spent: 14h30**
