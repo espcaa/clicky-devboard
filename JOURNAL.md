@@ -43,3 +43,14 @@ I learned so much about kicad, and that's very cool!
 
 After realizing my pcb was quite bad (bad crystal routing and uh a lot of other things that rudy pointed at) + the fact that it wasn't "clicky", i decided to re route it!
 I spent a lot of time on it but it's cleaner, HAS 0 DRC ISSUES!!!! (i'm so proud of that one :sob:) + it looks waay cooler!!!
+I also updated to a 4 layer board with this stackup:
+- 1st layer : 3v3
+- 2nd layer : GND
+- 3nd layer : gpio, slow signals
+- 4nd layer : vbus + random things
+
+<img width="600" height="821" alt="image" src="https://github.com/user-attachments/assets/89526ad8-f0a8-495c-919b-152e3edc97cd" />
+
+<img height="300" alt="Screenshot 2025-08-06 at 01 27 20" src="https://github.com/user-attachments/assets/82231134-2c69-4897-afa0-327363debd31" /><img height="300" alt="Screenshot 2025-08-06 at 01 27 38" src="https://github.com/user-attachments/assets/074f94ec-5958-4b79-aebd-710e42d1428a" />
+
+**Time spent : 5 hours, Total time spent: 19h30**
