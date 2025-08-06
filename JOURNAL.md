@@ -34,4 +34,7 @@ I grinded with tongyu and kailing on my board during the night and after a lot, 
 It looks very cool and comes at under 100$/5 units!!!
 I learned so much about kicad, and that's very cool!
 
+<img width="719" height="465" alt="image" src="https://github.com/user-attachments/assets/38a57371-701e-4bd8-8cf2-8567adf9b96f" />
+
+
 **Time spent: 9h, Total time spent: 14h30**
