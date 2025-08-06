@@ -38,3 +38,8 @@ I learned so much about kicad, and that's very cool!
 
 
 **Time spent: 9h, Total time spent: 14h30**
+
+# August 5-6th
+
+After realizing my pcb was quite bad (bad crystal routing and uh a lot of other things that rudy pointed at) + the fact that it wasn't "clicky", i decided to re route it!
+I spent a lot of time on it but it's cleaner, HAS 0 DRC ISSUES!!!! (i'm so proud of that one :sob:) + it looks waay cooler!!!
