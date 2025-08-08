@@ -4,6 +4,9 @@ This is a devboard based on the RP2350 chip (the rp2040's successor) with three 
 
 ## Renders
 
+
+<img width="480" alt="rendercool" src="https://github.com/user-attachments/assets/1897662d-2cd0-41e7-8db4-4c67ed88bbcd" /> <img width="480" alt="rendercoolback" src="https://github.com/user-attachments/assets/a1d02080-f538-4620-a87a-ef1857efd595" />
+
 ## Components used (non exhaustive)
 
 - RP2350
