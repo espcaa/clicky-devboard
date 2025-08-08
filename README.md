@@ -22,3 +22,8 @@ This is a devboard based on the RP2350 chip (the rp2040's successor) with three 
 - clicky
 - maybe works
 - open source
+
+## Screenshots of schematics/pcb
+
+<img width="500" alt="Screenshot 2025-08-07 at 18 11 06" src="https://github.com/user-attachments/assets/cf91e515-7c88-472a-8a18-f382df9c5390" /> \
+<img width="500" alt="Screenshot 2025-08-07 at 18 11 36" src="https://github.com/user-attachments/assets/1c5a1148-d2da-412e-8790-f77e8019fc72" />
