@@ -20,7 +20,7 @@ This is a devboard based on the RP2350 chip (the rp2040's successor) with three 
 ## Features
 
 - clicky
-- maybe works
+- ~~might work~~ works!
 - open source
 
 ## Screenshots of schematics/pcb
