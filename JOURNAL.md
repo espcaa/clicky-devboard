@@ -1,6 +1,6 @@
 ---
 Title: "Clicky devboard"
-Author: "@spc"
+Author: "@espcaa"
 Description: "a rp2350 based devboard with mechanical switches :D"
 Created On: "2/08/2025"
 ---
